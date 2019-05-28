@@ -7,5 +7,8 @@ Solution Structure
 - UsingHelperAsFileLink.exe
 - UsingHelperAsNugetSourcePackage.exe
 
+Helper
 
+Refactoring Replacing Nested Conditional with Guard Clauses
+https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html
 
