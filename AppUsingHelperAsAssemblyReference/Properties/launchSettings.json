@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AppUsingHelperAsAssemblyReference": {
+      "commandName": "Project",
+      "commandLineArgs": "1stArgument 2ndArgument 3rdArgument"
+    }
+  }
+}
